@@ -1,0 +1,14 @@
+{
+  "name": "meta-tools",
+  "version": "1.0.0",
+  "description": "Complete meta-creation toolkit for building Claude Code extensions (agents, commands, skills, plugins)",
+  "author": {
+    "name": "Angel Hermon",
+    "email": "angelhermon@users.noreply.github.com",
+    "url": "https://github.com/angelhermon"
+  },
+  "homepage": "https://github.com/angelhermon/claude-plugins",
+  "repository": "https://github.com/angelhermon/claude-plugins",
+  "license": "MIT",
+  "keywords": ["meta-tools", "agents", "commands", "skills", "plugins", "creation", "automation"]
+}

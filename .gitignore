@@ -1,0 +1,44 @@
+# Logs
+logs/
+*.log
+**/logs/
+plugins/logs/
+plugins/*/commands/logs/
+
+# Claude Code local settings (but keep .claude-plugin for marketplace config)
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+*.tmp
+*.bak
+
+# Node modules (if any MCP servers use npm)
+node_modules/
+
+# Python cache (if any skills use Python)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+dist/
+build/
