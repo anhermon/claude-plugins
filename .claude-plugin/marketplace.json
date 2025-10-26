@@ -7,14 +7,14 @@
   },
   "metadata": {
     "description": "Meta-creation toolkit and plugins for building Claude Code extensions",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
       "name": "meta-tools",
       "source": "./plugins/meta-tools",
       "description": "Complete meta-creation toolkit for building Claude Code extensions (agents, commands, skills, plugins)",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Angel Hermon"
       },
