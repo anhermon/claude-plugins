@@ -2,8 +2,8 @@
   "name": "claude-plugins-marketplace",
   "owner": {
     "name": "Angel Hermon",
-    "email": "angelhermon@users.noreply.github.com",
-    "url": "https://github.com/angelhermon"
+    "email": "angel.hermon@dealhub.com",
+    "url": "https://github.com/anhermon"
   },
   "metadata": {
     "description": "Meta-creation toolkit and plugins for building Claude Code extensions",
@@ -18,8 +18,8 @@
       "author": {
         "name": "Angel Hermon"
       },
-      "homepage": "https://github.com/angelhermon/claude-plugins",
-      "repository": "https://github.com/angelhermon/claude-plugins",
+      "homepage": "https://github.com/anhermon/claude-plugins",
+      "repository": "https://github.com/anhermon/claude-plugins",
       "license": "MIT",
       "keywords": ["meta-tools", "agents", "commands", "skills", "plugins", "creation", "automation"],
       "category": "development",
